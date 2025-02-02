@@ -47,5 +47,8 @@ Verifikasi dengan membuka Command Prompt:
 conda --version
 ```
 
+### Live video demo 
+https://youtube.com/live/UsS-nQxUhr0
+
 Made with ❤️ by Patria&Co
 Agentic AI Division
