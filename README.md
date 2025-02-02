@@ -1,5 +1,7 @@
 ![AI Animated Flow](AI%20Animated%20Flow.gif)
 
+![AI Animated Flow](RS%20Agent%20AI.gif)
+
 # Panduan Instalasi dan Penggunaan Miniconda
 
 Panduan lengkap untuk instalasi dan penggunaan dasar Miniconda di berbagai sistem operasi.
