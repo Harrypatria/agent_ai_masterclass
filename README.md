@@ -55,6 +55,9 @@ https://youtube.com/live/UsS-nQxUhr0
 ### Our masterclass info
 https://sites.google.com/view/agenticai/home
 
+### Modules
+https://sites.google.com/view/agenticai/modules
+
 Made with ❤️ by Patria&Co
 Agentic AI Division
 2025
