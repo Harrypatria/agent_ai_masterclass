@@ -52,6 +52,9 @@ conda --version
 ### Live video demo 
 https://youtube.com/live/UsS-nQxUhr0
 
+### Our masterclass info
+https://sites.google.com/view/agenticai/home
+
 Made with ❤️ by Patria&Co
 Agentic AI Division
 2025
