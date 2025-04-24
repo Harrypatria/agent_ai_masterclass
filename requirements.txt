@@ -1,0 +1,5 @@
+scikit-learn
+streamlit
+streamlit-option-menu
+phidata==2.5.33
+google-generativeai==0.8.3
